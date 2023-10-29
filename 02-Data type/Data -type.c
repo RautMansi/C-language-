@@ -10,3 +10,5 @@ int main()
  printf("the value of short datatype is %d/n",sizeof(short));
  printf("the value of long double is %d/n",sizeof(long double));
  printf("the value of float datatype is %d/n",sizeof(float));
+ return 0;
+}
